@@ -9,3 +9,4 @@ umap-learn
 gensim
 openai>=1.0.0
 streamlit
+watchdog

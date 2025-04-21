@@ -1,8 +1,0 @@
-# Ignore generated model outputs
-src/o1_outputs/
-
-# Ignore input data files
-src/data/
-
-# Ignore the PowerPoint template
-Africa thematic analysis.pptx

@@ -1,0 +1,11 @@
+vaderSentiment
+textblob
+openpyxl
+pandas
+wordcloud
+sentence-transformers
+hdbscan
+umap-learn
+gensim
+openai>=1.0.0
+streamlit

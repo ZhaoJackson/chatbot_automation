@@ -1,11 +1,9 @@
 # JWP/chatbot_app.py
 import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), "src"))
 import streamlit as st
 import os
-import pandas as pd
-from openai import AzureOpenAI
-from commonconst import *
+from src.commonconst import *
+sys.path.append(os.path.join(os.path.dirname(__file__), "src"))
 
 # Initialize Azure OpenAI client
 client = AzureOpenAI(

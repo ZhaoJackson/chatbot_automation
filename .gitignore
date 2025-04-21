@@ -5,7 +5,7 @@ src/o1_outputs/
 src/data/
 
 # Ignore credentials and config constants
-src/commonconst.py
+# src/commonconst.py
 
 # Ignore the PowerPoint template
 Africa thematic analysis.pptx

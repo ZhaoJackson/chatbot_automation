@@ -1,20 +1,14 @@
-Below is a concise overview of four principal focus areas (“IFF” themes) the UN is supporting in Africa for 2024, followed by key challenges and gaps.
+1) Strengthening Data and Evidence-Based Governance (Governance & Data)  
+   • Illustration: UN support includes harmonizing real-time administrative data systems (with sex- and gender-disaggregated information) to improve planning and decision-making, as well as distributing meteorological instruments (e.g., pluviometers) and publishing agricultural bulletins for local producers.
 
-1) Data-Driven Governance and Planning (Theme: Governance & Accountability)  
-   • Interventions include harmonizing administrative data systems, collecting sex-disaggregated statistics, and distributing climate information (e.g., pluviometers, rainfall bulletins) to guide evidence-based policies.  
-   • By improving real-time data use and monitoring, governments can better shape development strategies and respond more effectively to local needs.
+2) Enhancing Health Services with a Focus on HIV and TB (Health Systems)  
+   • Illustration: Interventions range from updating HIV prevention research agendas and TB guidelines based on new WHO recommendations, to scaling up differentiated HIV testing and treatment models (including self-testing) for youth and key populations left behind.
 
-2) Strengthening Health Systems (Theme: Health Systems)  
-   • Focuses on updating TB/HIV guidelines, scaling up HIV self-testing and differentiated service delivery models, and incorporating WHO recommendations into national plans.  
-   • The aim is to expand coverage, especially for vulnerable and hard-to-reach populations, and ensure treatment regimens remain current and equitable.
+3) Expanding Access to Education and Skills Development (Education Access)  
+   • Illustration: Activities encompass remote and digital training-of-trainers workshops, radio and TV-based curricula dissemination, and overarching policy reforms to strengthen assessment capacities and improve learning outcomes for all age groups.
 
-3) Education and Skills Development (Theme: Education Access)  
-   • Emphasizes curriculum reform, remote or digital learning methods, and capacity-building of teachers and trainers (e.g., through TOT workshops).  
-   • These efforts seek to boost learning outcomes from early childhood through adulthood and equip youth with career-oriented skills.
+4) Promoting Economic Empowerment and Innovative Financing (Economic Empowerment)  
+   • Illustration: Support focuses on raising awareness of cross-border trade opportunities under ECOWAS and AfCFTA, examining mechanisms such as Zakat as an innovative source of SDG financing, and strengthening governance frameworks to spur entrepreneurship and climate-smart agriculture.
 
-4) Economic Empowerment and Innovative Financing (Theme: Economic Empowerment)  
-   • Includes supporting cross-border trade under ECOWAS & AfCFTA, bolstering enterprise creation, and exploring new financial mechanisms (e.g., Zakat) to fund the SDGs.  
-   • Gender-responsive approaches to climate-smart agriculture, plus capacity-building for investment attraction, form key components of sustaining long-term, inclusive growth.
-
-Potential Challenges or Gaps in Support (2–3 sentences):  
-While these initiatives are wide-ranging, consistent and sustained financing often remains a challenge, particularly for scaling successful pilot programs to national or regional levels. Coordination across ministries and stakeholders can be difficult, which may limit the long-term impact of capacity-building activities. Additionally, reaching remote or marginalized communities and ensuring technology or data systems remain functional in fragile contexts continue to pose significant hurdles.
+Challenges/Gaps:  
+Despite these targeted efforts, limited financial and human resources often constrain the rollout of projects—especially in rural and hard-to-reach areas. Fragmented data systems and uneven coordination across sectors make it difficult to replicate or scale successful interventions. Socio-cultural barriers also persist in areas like HIV disclosure, gender equality, and access to education, requiring sustained advocacy and community engagement.

@@ -1,16 +1,14 @@
-1) Digital Economy (Economic Empowerment)  
-   • Focus: Strengthening digital and financial inclusion, creating digital job platforms, and empowering small businesses (including youth- and women-led ventures) through alternative lending, market information systems, and e-commerce. These initiatives support diversified production, innovation, and improved access to finance for marginalized populations.  
+1. Digital Economic Empowerment (Economic Empowerment)  
+   • Illustration: Many programs prioritize financial and digital inclusion (particularly for women and youth), support alternative digital lending frameworks, and create job platforms to broaden employment opportunities. They also focus on digitizing agricultural value chains and expanding e-commerce, enabling farmers and small businesses to access markets more effectively.  
 
-2) Digital Education (Education Access)  
-   • Focus: Introducing and expanding e-learning platforms (e.g., digital curricula for preschool, primary, vocational, and higher education), digital libraries, and online resources. These efforts seek to reduce barriers to quality education, particularly in remote areas and for vulnerable learners.  
+2. Digital Education Access (Education Access)  
+   • Illustration: Initiatives include establishing digital learning platforms for preschool through vocational training, providing e-library services in universities, and integrating digital curricula into schools. These efforts help bridge learning gaps and expand educational resources for marginalized and out-of-school populations.  
 
-3) Digital Governance (Institutional Reforms and Service Delivery)  
-   • Focus: Supporting e-justice and digitization of court systems, assisting immigration authorities to implement e-visa solutions, promoting digital mechanisms for participatory urban planning, and building government capacity for digital administration. By streamlining digital services, governments aim to enhance efficiency, transparency, and accountability.  
+3. Digital Health Systems (Health Systems)  
+   • Illustration: Several projects strengthen digital health information systems and support RMNCAH (Reproductive, Maternal, Newborn, Child, and Adolescent Health) innovations. By digitizing health records and streamlining data management, programs aim to improve patient care, enable faster decision-making, and enhance resilience of public health services.  
 
-4) Digital Health (Health Systems Strengthening)  
-   • Focus: Digitalizing health information systems (including maternal and child healthcare data), scaling up proven health innovations, and expanding telehealth infrastructure. These activities help improve health service delivery, strengthen health data management, and increase equitable access to healthcare.  
+4. Digital Governance and Public Services (Governance)  
+   • Illustration: From e-justice and digitization of courts to digitalized immigration services and public feedback mechanisms, the focus is on making governance more transparent and accessible. Policy and regulatory assessments also guide whole-of-government digital transformation to bolster social protection and administrative efficiency.  
 
-Potential Challenges/Gaps:  
-• Many communities still face limited internet penetration, inadequate infrastructure, and inconsistencies in electricity and connectivity, hindering widespread adoption of digital services.  
-• Digital literacy gaps, particularly among women, youth, and marginalized groups, hamper full benefit from e-services and limit uptake of online learning opportunities.  
-• Regulatory and policy frameworks may not yet be fully adapted to new digital realities, slowing integration of financial and technological innovations across sectors.  
+Potential Challenges/Gaps  
+Despite strong commitments, limited digital infrastructure, inconsistent connectivity, and gaps in digital literacy hinder the reach and effectiveness of many initiatives. Affordability of devices and ongoing funding constraints also pose barriers to scaling digital solutions, particularly in remote regions. In addition, fragmented policy environments and a lack of cross-sector coordination can slow implementation and reduce the long-term sustainability of digital programs.

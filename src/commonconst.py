@@ -1,14 +1,15 @@
 # src/commonconst.py
 from openai import AzureOpenAI
+import streamlit as st
 import pandas as pd
 import re
 import os
 
 # Azure OpenAI Credentials
-AZURE_OPENAI_API_KEY = "4gM2HRtaDIsFbDjfQQl1DAO1RzN4l2TfAcmkIuC0KgcEjmsEOS9yJQQJ99BBACHYHv6XJ3w3AAAAACOGpcKh"
-AZURE_OPENAI_ENDPOINT = "https://ppbai6350320563.openai.azure.com"
-AZURE_OPENAI_API_VERSION = "2024-12-01-preview"
-AZURE_OPENAI_DEPLOYMENT = "o1"
+AZURE_OPENAI_API_KEY = st.secrets["AZURE_OPENAI_API_KEY"]
+AZURE_OPENAI_ENDPOINT = st.secrets["AZURE_OPENAI_ENDPOINT"]
+AZURE_OPENAI_API_VERSION = st.secrets["AZURE_OPENAI_API_VERSION"]
+AZURE_OPENAI_DEPLOYMENT = st.secrets["AZURE_OPENAI_DEPLOYMENT"]
 
 # Output directory
 O1_OUTPUT_DIR = "src/o1_outputs"
